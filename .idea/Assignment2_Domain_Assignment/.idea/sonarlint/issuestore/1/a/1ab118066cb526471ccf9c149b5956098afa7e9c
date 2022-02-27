@@ -1,0 +1,15 @@
+
+O
+java:S1118	":Add a private constructor to hide the implicit public one.(ÄË•[
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(úõçš
+Q	java:S125"<This block of commented-out lines of code should be removed.(’Úñù
+Q	java:S125"<This block of commented-out lines of code should be removed.(ºÍÊÒ
+L
+java:S1144"6Remove this unused private "matchResiduePairs" method.(úõçš
+M
+java:S1144("7Remove this unused private "extractUniquePairs" method.(¿Ä±Æ
+0
+java:S1220""Move this file to a named package.
+H
+java:S1199,"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
